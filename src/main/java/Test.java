@@ -2,9 +2,9 @@ import tech.tablesaw.api.Table;
 import tech.tablesaw.columns.Column;
 
 public class Test {
+	private final static String[] tests = {"attention", "language", "visuospatial", "delayed-memory", "immediate-memory"};
 	private final static String[] ageRanges = {"20-39", "40-49", "50-59", "60-69"};
 	private final static String[] testStages = {"baseline", "mid", "post"};
-	private final static String[] tests = {"attention", "language", "visuospatial", "delayed-memory", "immediate-memory"};
 	
 	public static void main(String[] args) {
 		for (String ageRange : ageRanges) {

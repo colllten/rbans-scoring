@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/src/main/resources/RBANS_Crosscheck.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/S60.csv">
           <value>
             <Attribute>
@@ -38,6 +45,41 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/resources/baseline/delayed-memory/20-39-baseline-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/delayed-memory/40-49-baseline-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/delayed-memory/50-59-baseline-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/delayed-memory/60-69-baseline-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/immediate-memory/20-39-baseline-immediate-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/baseline/immediate-memory/50-59-baseline-immediate-memory.csv">
           <value>
             <Attribute>
@@ -46,6 +88,41 @@
           </value>
         </entry>
         <entry key="/src/main/resources/baseline/language/20-39-baseline-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/language/40-49-baseline-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/language/50-59-baseline-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/language/60-69-baseline-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/visuospatial/20-39-baseline-visuospatial.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/baseline/visuospatial/40-49-baseline-visuospatial.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -73,6 +150,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/resources/mid/delayed-memory/20-39-mid-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/delayed-memory/40-49-mid-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/delayed-memory/50-59-mid-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/delayed-memory/60-69-mid-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/mid/immediate-memory/40-49-mid-immediate-memory.csv">
           <value>
             <Attribute>
@@ -87,7 +192,84 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/resources/mid/language/20-39-mid-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/language/40-49-mid-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/language/50-59-mid-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/language/60-69-mid-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/delayed-memory/20-39-post-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/delayed-memory/40-49-post-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/delayed-memory/50-59-post-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/delayed-memory/60-69-post-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/post/immediate-memory/60-69-post-immediate-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/language/20-39-post-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/language/40-49-post-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/language/50-59-post-language.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
