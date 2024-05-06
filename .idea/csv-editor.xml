@@ -129,6 +129,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/resources/baseline/visuospatial/50-59-baseline-visuospatial.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/mid/attention/20-39-mid-attention.csv">
           <value>
             <Attribute>
@@ -192,6 +199,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/resources/mid/immediate-memory/60-69-mid-immediate-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/mid/language/20-39-mid-language.csv">
           <value>
             <Attribute>
@@ -220,6 +234,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/resources/mid/visuospatial/20-39-mid-visuospatial.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/attention/40-49-post-attention.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/attention/50-59-post-attention.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/resources/post/delayed-memory/20-39-post-delayed-memory.csv">
           <value>
             <Attribute>
@@ -242,6 +277,13 @@
           </value>
         </entry>
         <entry key="/src/main/resources/post/delayed-memory/60-69-post-delayed-memory.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/immediate-memory/40-49-post-immediate-memory.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -277,6 +319,13 @@
           </value>
         </entry>
         <entry key="/src/main/resources/post/language/60-69-post-language.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/post/visuospatial/50-59-post-visuospatial.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
