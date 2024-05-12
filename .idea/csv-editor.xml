@@ -10,13 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/src/main/resources/S60.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/src/main/resources/baseline/attention/20-39-baseline-attention.csv">
           <value>
             <Attribute>
@@ -137,6 +130,13 @@
           </value>
         </entry>
         <entry key="/src/main/resources/mid/attention/20-39-mid-attention.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/resources/mid/attention/40-49-mid-attention.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
